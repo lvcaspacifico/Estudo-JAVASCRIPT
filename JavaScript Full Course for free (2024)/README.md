@@ -13,6 +13,7 @@ Comecei esse curso pois JavaScript é uma linguagem muito utilizada e indispens�
 Iniciei o curso 12/05/2024 -> 45min
 
 Estudei 13/05/2024 -> 25min
+Estudei 20/05/2024 -> 60min
 # Link do Curso (Youtube)
  - [JavaScript Full Course for free 🌐 (2024) | Bro Code](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 

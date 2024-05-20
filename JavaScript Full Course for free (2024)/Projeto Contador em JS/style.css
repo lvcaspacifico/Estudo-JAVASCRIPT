@@ -9,11 +9,9 @@
 body{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 #WidgetsConteiner{
-    display: inline-block;
     text-align: center;
     background-color: rgb(0, 61, 153);
     padding: 30px;
