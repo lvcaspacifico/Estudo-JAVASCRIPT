@@ -10,10 +10,10 @@ Comecei esse curso pois JavaScript é uma linguagem muito utilizada e indispens�
 
 # Diário de progresso  📖
 
-Iniciei o curso 12/05/2024 -> 45min
+Iniciei o curso 12/05/2024 -> Iniciei o curso
 
-Estudei 13/05/2024 -> 25min
-Estudei 20/05/2024 -> 60min
+Estudei 13/05/2024 -> Parei @ 01:00:00
+Estudei 20/05/2024 -> Parei @ 01:32:00
 # Link do Curso (Youtube)
  - [JavaScript Full Course for free 🌐 (2024) | Bro Code](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
